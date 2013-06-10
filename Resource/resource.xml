@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+	<gresource prefix="/">
+		<file>reset.css</file>
+		<file>gtk.css</file>
+		<file>dialog.css</file>
+	</gresource>
+</gresources>

@@ -1,0 +1,42 @@
+/home/laojing/Projects/TurbLogic/Object/Gui/TreeStore.o: \
+ /home/laojing/Projects/TurbLogic/Source/Gui/TreeStore.c \
+ /home/laojing/Projects/TurbLogic/Source/Gui/TreeStore.h
+/home/laojing/Projects/TurbLogic/Object/Gui/Notebook.o: \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Notebook.c \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Notebook.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/TreeStore.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/../Project/MainData.h
+/home/laojing/Projects/TurbLogic/Object/Gui/MenuToolActions.o: \
+ /home/laojing/Projects/TurbLogic/Source/Gui/MenuToolActions.c \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Actions.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/../Project/MainData.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/TreeStore.h
+/home/laojing/Projects/TurbLogic/Object/Gui/ProjectManage.o: \
+ /home/laojing/Projects/TurbLogic/Source/Gui/ProjectManage.c \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Actions.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/../Project/MainData.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/TreeStore.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Notebook.h
+/home/laojing/Projects/TurbLogic/Object/Gui/Message.o: \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Message.c \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Actions.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/../Project/MainData.h
+/home/laojing/Projects/TurbLogic/Object/Gui/MainUI.o: \
+ /home/laojing/Projects/TurbLogic/Source/Gui/MainUI.c \
+ /home/laojing/Projects/TurbLogic/Source/Gui/MainWindow.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Actions.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/../Project/MainData.h
+/home/laojing/Projects/TurbLogic/Object/Gui/PageAlarmCodes.o: \
+ /home/laojing/Projects/TurbLogic/Source/Gui/PageAlarmCodes.c \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Notebook.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/TreeStore.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/../Project/MainData.h
+/home/laojing/Projects/TurbLogic/Object/Gui/PageInputOutputs.o: \
+ /home/laojing/Projects/TurbLogic/Source/Gui/PageInputOutputs.c \
+ /home/laojing/Projects/TurbLogic/Source/Gui/Notebook.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/TreeStore.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/../Project/MainData.h
+/home/laojing/Projects/TurbLogic/Object/Gui/MainWindow.o: \
+ /home/laojing/Projects/TurbLogic/Source/Gui/MainWindow.c \
+ /home/laojing/Projects/TurbLogic/Source/Gui/MainWindow.h \
+ /home/laojing/Projects/TurbLogic/Source/Gui/../Project/MainData.h

@@ -1,0 +1,1014 @@
+# Chinese translations for turblogic package
+# turblogic 软件包的简体中文翻译.
+# Copyright (C) 2012 THE turblogic'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the turblogic package.
+# Jing Yanjun <laojingsut@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: turblogic 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-17 18:50+0800\n"
+"PO-Revision-Date: 2012-08-30 10:25+0800\n"
+"Last-Translator: Jing Yanjun <laojingsut@gmail.com>\n"
+"Language-Team: Chinese (simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/IdName.c:123
+msgid "Select Variable"
+msgstr "选择变量"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/MainWindow.c:118
+msgid "Wind Turbine Simple Monitor System"
+msgstr "简化风机监控系统"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:128
+msgid "Operator Window"
+msgstr "面板"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:144
+msgid "None Wind"
+msgstr "无风"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:146
+msgid "Small Wind"
+msgstr "弱风"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:148
+msgid "Strong Wind"
+msgstr "强风"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:160
+msgid "Gust Wind"
+msgstr "阵风"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:162
+msgid "Super Wind"
+msgstr "叠加风"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:164
+msgid "Turblence Wind"
+msgstr "湍流风"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:174
+msgid "Open Pitch"
+msgstr "开桨"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:178
+msgid "Close Pitch"
+msgstr "关桨"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:182
+msgid "Open Brake"
+msgstr "松闸"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:186
+msgid "Close Brake"
+msgstr "抱闸"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:190
+msgid "Left Yaw "
+msgstr "左偏"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:194
+msgid "Right Yaw"
+msgstr "右偏"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:210
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:244
+msgid "Auto"
+msgstr "自动"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:212
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:245
+msgid "Manual"
+msgstr "手动"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:214
+msgid "Simualtion"
+msgstr "模拟"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:226
+msgid "Unclock"
+msgstr "解锁"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:228
+msgid "Locked"
+msgstr "锁死"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:238
+msgid "Start"
+msgstr "启动"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:242
+msgid "Stop"
+msgstr "停止"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:246
+msgid "AutoYaw"
+msgstr "自动偏航"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:250
+msgid "AutoUnwind"
+msgstr "自动解缆"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Operator.c:254
+msgid "EveryStep "
+msgstr "单步"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/RealGraph.c:324
+msgid "Blank Variable"
+msgstr "无变量"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/RealGraph.c:365
+msgid "Real Time Curve"
+msgstr "实时运行曲线"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Simulation.c:146
+msgid "Simulation Window"
+msgstr "模拟窗口"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Simulation.c:172
+msgid "North"
+msgstr "正北"
+
+#: /home/laojing/Projects/Monitor/Source/Gui/Simulation.c:178
+msgid "Wind Speed"
+msgstr "风速"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:59
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:212
+msgid "Log"
+msgstr "日志信息"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:60
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:213
+msgid "Warning"
+msgstr "警告信息"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:61
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:214
+msgid "Forbid Start"
+msgstr "禁止启动"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:62
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:215
+msgid "Normal Stop"
+msgstr "正常停机"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:63
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:216
+msgid "Grid Error"
+msgstr "电网故障"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:64
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:217
+msgid "Fast Stop"
+msgstr "快速停机"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:65
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:218
+msgid "Battery Stop"
+msgstr "电池收桨"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:66
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:219
+msgid "Manual Error"
+msgstr "手动故障"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:67
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:220
+msgid "Turbine Protect"
+msgstr "风机保护"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:68
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:221
+msgid "Emergency"
+msgstr "紧急停机"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:80
+msgid "DisableLoop"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:81
+msgid "Loop"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:94
+msgid "State Machines"
+msgstr "状态机"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:95
+msgid "State Filters"
+msgstr "状态过滤"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:96
+msgid "Alarm Codes"
+msgstr "状态码"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:97
+msgid "Input Outputs"
+msgstr "输入输出"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:98
+msgid "Parameters"
+msgstr "参数"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:99
+msgid "States"
+msgstr "状态"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:100
+msgid "Deriveds"
+msgstr "中间参数"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:103
+msgid "Simulation"
+msgstr "模拟"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:104
+msgid "Siemens"
+msgstr "西门子"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:105
+msgid "Bachman"
+msgstr "巴合曼"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:106
+msgid "Mita"
+msgstr "米特"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:107
+msgid "Backhoff"
+msgstr "贝褔"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:125
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:491
+msgid "Expression:"
+msgstr "表达式："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:126
+msgid "HareWare:"
+msgstr "硬件："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:139
+msgid "Logic Operation:"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:140
+msgid "Left Bracket:"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:141
+msgid "NOT Logic:"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:142
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:158
+#, fuzzy
+msgid "First Operator:"
+msgstr "管理人员"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:143
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:159
+#, fuzzy
+msgid "Operation:"
+msgstr "管理人员"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:144
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:160
+#, fuzzy
+msgid "Second Operator:"
+msgstr "管理人员"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:145
+msgid "Right Bracket:"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:173
+msgid "Project Name:"
+msgstr "工程名："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:174
+msgid "Destination:"
+msgstr "存放目录："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:175
+#, fuzzy
+msgid "Hardware Type:"
+msgstr "数据类型："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:176
+msgid "Author:"
+msgstr "作者："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:177
+msgid "E-mail:"
+msgstr "邮箱："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:178
+#, fuzzy
+msgid "Version:"
+msgstr "表达式："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:179
+msgid "Date:"
+msgstr "日期："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:180
+msgid "Company:"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:181
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:197
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:319
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:338
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:375
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:397
+msgid "Description:"
+msgstr "描述："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:194
+msgid "Id:"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:195
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:311
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:332
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:388
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:411
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:434
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:484
+msgid "Name:"
+msgstr "名称："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:196
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:318
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:337
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:374
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:396
+msgid "Display:"
+msgstr "显示："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:231
+msgid "Information"
+msgstr "一般信息"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:232
+msgid "RequestStop"
+msgstr "请求停机"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:233
+msgid "NormalStop"
+msgstr "正常停机"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:234
+msgid "TurbineFault"
+msgstr "风机故障"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:255
+msgid "U1"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:256
+msgid "S8"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:257
+msgid "U8"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:258
+msgid "S16"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:259
+msgid "U16"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:260
+msgid "REAL"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:261
+msgid "S32"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:262
+msgid "U32"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:272
+msgid "Warm"
+msgstr "热复位"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:273
+msgid "Cold"
+msgstr "冷复位"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:283
+msgid "Observer"
+msgstr "运行人员"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:284
+msgid "Manager"
+msgstr "管理人员"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:285
+msgid "Server"
+msgstr "维护人员"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:286
+msgid "Developer"
+msgstr "开发人员"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:296
+msgid "A"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:297
+msgid "V"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:298
+msgid "deg"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:299
+msgid "degC"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:300
+msgid "m/s"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:301
+msgid "rpm"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:302
+msgid "s"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:310
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:331
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:387
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:410
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:433
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:483
+msgid "ID:"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:312
+msgid "Category:"
+msgstr "类别："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:313
+msgid "Category zh_CN:"
+msgstr "中文类别："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:314
+msgid "Excecute:"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:315
+msgid "Exit Condition:"
+msgstr "退出条件："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:316
+msgid "Time Out:"
+msgstr "超时时间："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:317
+msgid "Time Out Alarm:"
+msgstr "超时报警："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:333
+msgid "Included Category:"
+msgstr "包括类别："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:334
+msgid "Excluded Category:"
+msgstr "排除类别："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:335
+msgid "Included State:"
+msgstr "包括状态："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:336
+msgid "Excluded State:"
+msgstr "排除状态："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:350
+msgid "Min Value:"
+msgstr "最小值："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:351
+msgid "Max Value:"
+msgstr "最大值："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:352
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:389
+msgid "Enable:"
+msgstr "使能："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:353
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:390
+msgid "Reset Type:"
+msgstr "复位类型："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:354
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:391
+msgid "Alarm Level:"
+msgstr "状态码级别："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:355
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:392
+msgid "Running Alarm Level:"
+msgstr "运行时级别："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:356
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:393
+msgid "Alarm Category:"
+msgstr "状态码类别："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:357
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:394
+msgid "State Filter:"
+msgstr "状态过滤："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:369
+msgid "Log Config:"
+msgstr "日志配置："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:370
+msgid "View Level:"
+msgstr "查看级别："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:371
+msgid "Change Level:"
+msgstr "修改级别："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:372
+msgid "Display Location:"
+msgstr "显示位置："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:373
+msgid "Display Units:"
+msgstr "显示单位："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:395
+msgid "Alarm Condition:"
+msgstr "激活条件："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:412
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:435
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:485
+msgid "Data Type:"
+msgstr "数据类型："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:413
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:436
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:486
+msgid "Reset Condition:"
+msgstr "复位条件："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:414
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:437
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:487
+msgid "Initial Value:"
+msgstr "初始值："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:415
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:438
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:488
+msgid "Test Value:"
+msgstr "测试值："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:416
+msgid "Calibration:"
+msgstr "定标："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:417
+msgid "IO Data Type:"
+msgstr "IO 数据类型："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:418
+msgid "IO Address:"
+msgstr "IO 地址："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:419
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:439
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:489
+#, fuzzy
+msgid "Alarm Codes:"
+msgstr "状态码"
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:420
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:440
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:490
+#, fuzzy
+msgid "Him Display:"
+msgstr "显示："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:462
+msgid "Diff"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:463
+msgid "Count"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:464
+msgid "MovAve"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:465
+msgid "PosEdge"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:466
+msgid "NegEdge"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:467
+msgid "TrueOver"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:468
+msgid "TrueDuration"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:469
+msgid "UnchangeDuration"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:470
+msgid "RateOfChange"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:471
+msgid "AngleRateOfChange"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:472
+msgid "Accumulate"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:473
+msgid "HysterSwitch"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:474
+msgid "YawErrAverage"
+msgstr ""
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:492
+msgid "Filter Type:"
+msgstr "过滤类型："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:493
+msgid "Time Parameter:"
+msgstr "时间参数："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:494
+msgid "Hyster Off Condition:"
+msgstr "延迟复位条件："
+
+#: /home/laojing/Projects/Monitor/Source/Project/MainData.c:495
+msgid "Hyster On Condition:"
+msgstr "延迟激活条件："
+
+#~ msgid "Name"
+#~ msgstr "名称"
+
+#~ msgid "Variable"
+#~ msgstr "变量"
+
+#~ msgid "Value"
+#~ msgstr "数值"
+
+#~ msgid "Unit"
+#~ msgstr "单位"
+
+#~ msgid "Yes"
+#~ msgstr "是"
+
+#, fuzzy
+#~ msgid "Alarm"
+#~ msgstr "报警名称："
+
+#, fuzzy
+#~ msgid "Time Out"
+#~ msgstr "超时时间："
+
+#~ msgid "No"
+#~ msgstr "否"
+
+#, fuzzy
+#~ msgid "Stat"
+#~ msgstr "状态"
+
+#, fuzzy
+#~ msgid "Changed"
+#~ msgstr "修改级别："
+
+#~ msgid "Add Object"
+#~ msgstr "增加对象"
+
+#~ msgid "Add State Machines"
+#~ msgstr "增加状态机"
+
+#~ msgid "Add State Filters"
+#~ msgstr "增加状态过滤"
+
+#~ msgid "Add Alarm Codes"
+#~ msgstr "增加状态码"
+
+#~ msgid "Add Input Outputs"
+#~ msgstr "增加输入输出"
+
+#~ msgid "Add Parameters"
+#~ msgstr "增加参数"
+
+#~ msgid "Add States"
+#~ msgstr "增加状态"
+
+#~ msgid "Add Deriveds"
+#~ msgstr "增加中间变量"
+
+#~ msgid "Add Manuals"
+#~ msgstr "增加手册"
+
+#~ msgid "Move Up Object"
+#~ msgstr "向上移动"
+
+#~ msgid "Move Down Object"
+#~ msgstr "向下移动"
+
+#~ msgid "Remove Object"
+#~ msgstr "删除"
+
+#~ msgid "Rename Object"
+#~ msgstr "重命名"
+
+#~ msgid "Remove Class"
+#~ msgstr "删除"
+
+#~ msgid "_Project"
+#~ msgstr "工程"
+
+#~ msgid "_Tool"
+#~ msgstr "工具"
+
+#~ msgid "_Build"
+#~ msgstr "编译"
+
+#~ msgid "_Diagram"
+#~ msgstr "框图"
+
+#~ msgid "_Help"
+#~ msgstr "帮助"
+
+#~ msgid "_New"
+#~ msgstr "新建"
+
+#~ msgid "Create a New Project"
+#~ msgstr "新建一个工程"
+
+#~ msgid "_Open"
+#~ msgstr "打开"
+
+#~ msgid "Open a Exist Project"
+#~ msgstr "打开一个工程"
+
+#~ msgid "_Save"
+#~ msgstr "保存"
+
+#~ msgid "Save Current Project"
+#~ msgstr "保存当前工程"
+
+#~ msgid "Save _As..."
+#~ msgstr "另存为..."
+
+#~ msgid "Save to a Project"
+#~ msgstr "另存工程为..."
+
+#~ msgid "_Properties"
+#~ msgstr "属性"
+
+#~ msgid "Project Properties"
+#~ msgstr "工程属性"
+
+#~ msgid "_Quit"
+#~ msgstr "关闭"
+
+#~ msgid "Quit Project"
+#~ msgstr "关闭当前工程"
+
+#~ msgid "_Import"
+#~ msgstr "导入"
+
+#~ msgid "Import Object"
+#~ msgstr "导入对象"
+
+#~ msgid "_Export"
+#~ msgstr "导出"
+
+#~ msgid "Export Object"
+#~ msgstr "导出对象"
+
+#~ msgid "Build Object"
+#~ msgstr "编译对象"
+
+#~ msgid "_BuildAll"
+#~ msgstr "编译所有"
+
+#~ msgid "Build Project"
+#~ msgstr "编译工程"
+
+#~ msgid "_BuildManual"
+#~ msgstr "编译手册"
+
+#~ msgid "Build Manual"
+#~ msgstr "编译手册"
+
+#~ msgid "_GenManual"
+#~ msgstr "生成手册"
+
+#~ msgid "Generate Manual"
+#~ msgstr "生成总的手册"
+
+#, fuzzy
+#~ msgid "_OverallDiagram"
+#~ msgstr "总览框图"
+
+#~ msgid "Overall Diagram"
+#~ msgstr "总览框图"
+
+#, fuzzy
+#~ msgid "_TotalDiagram"
+#~ msgstr "详细框图"
+
+#~ msgid "Total Diagram"
+#~ msgstr "详细框图"
+
+#, fuzzy
+#~ msgid "_CategoryDiagram"
+#~ msgstr "类别："
+
+#, fuzzy
+#~ msgid "Category Diagram"
+#~ msgstr "总览框图"
+
+#~ msgid "About"
+#~ msgstr "关于"
+
+#, fuzzy
+#~ msgid "_CategoryCircle"
+#~ msgstr "类别："
+
+#, fuzzy
+#~ msgid "Category Circle"
+#~ msgstr "中文类别："
+
+#~ msgid "Project Manager"
+#~ msgstr "工程管理器"
+
+#~ msgid "Object List"
+#~ msgstr "对象列表"
+
+#~ msgid "Class List"
+#~ msgstr "分类列表"
+
+#~ msgid "General Logic Controller Designer"
+#~ msgstr "通用逻辑控制设计器"
+
+#~ msgid "Destination"
+#~ msgstr "描述"
+
+#, fuzzy
+#~ msgid "Open an Existing Project"
+#~ msgstr "打开一个工程"
+
+#~ msgid "Manuals"
+#~ msgstr "手册"
+
+#~ msgid "Save Project As ..."
+#~ msgstr "另存工程为..."
+
+#~ msgid "State Name"
+#~ msgstr "状态名称"
+
+#, fuzzy
+#~ msgid "Next State"
+#~ msgstr "下一状态："
+
+#, fuzzy
+#~ msgid "Filter Name"
+#~ msgstr "过滤类型："
+
+#~ msgid "Description"
+#~ msgstr "描述"
+
+#~ msgid "Alarm Level"
+#~ msgstr "级别"
+
+#~ msgid "Alarm Name"
+#~ msgstr "报警名称"
+
+#~ msgid "IO Address"
+#~ msgstr "IO 地址"
+
+#~ msgid "Input Output Name"
+#~ msgstr "描述"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Invalid Data"
+#~ msgstr "无效数据"
+
+#~ msgid "Object Name:"
+#~ msgstr "对象名："
+
+#~ msgid "Create a New Object"
+#~ msgstr "新建一个对象"
+
+#~ msgid "Alarm Category"
+#~ msgstr "类别"
+
+#~ msgid "Reset Type"
+#~ msgstr "复位类型"
+
+#~ msgid "Enable"
+#~ msgstr "使能"
+
+#~ msgid "Coin Parameter"
+#~ msgstr "相关参数"
+
+#~ msgid "Alarm Condition"
+#~ msgstr "激活条件"
+
+#~ msgid "Actived Description"
+#~ msgstr "激活描述"
+
+#, fuzzy
+#~ msgid "Object Manual: "
+#~ msgstr "对象名："
+
+#~ msgid "Open an Existing Object"
+#~ msgstr "导入一个对象"
+
+#~ msgid "Next State:"
+#~ msgstr "下一状态："
+
+#~ msgid "Initial Actived:"
+#~ msgstr "激活："
+
+#~ msgid "State Machine:"
+#~ msgstr "状态机："
+
+#~ msgid "Actived Description:"
+#~ msgstr "激活描述："
+
+#~ msgid "Coin Variable:"
+#~ msgstr "相关变量："
+
+#~ msgid "Coin Parameter:"
+#~ msgstr "相关参数："
+
+#~ msgid "Active Value:"
+#~ msgstr "初始激活："
+
+#~ msgid "Alarm Name:"
+#~ msgstr "报警名称："
+
+#~ msgid "Extra Expression:"
+#~ msgstr "额外表达式："
+
+#~ msgid "IO Calibration:"
+#~ msgstr "IO 定标："
+
+#, fuzzy
+#~ msgid "AlarmCategory:"
+#~ msgstr "状态码类别："
+
+#, fuzzy
+#~ msgid "Chinese Display:"
+#~ msgstr "显示："
+
+#, fuzzy
+#~ msgid "English Display:"
+#~ msgstr "显示："
+
+#, fuzzy
+#~ msgid "Chinese Description:"
+#~ msgstr "激活描述："
+
+#, fuzzy
+#~ msgid "English Description:"
+#~ msgstr "描述："

@@ -1,0 +1,100 @@
+@import url("resource:///reset.css");
+
+* {
+    transition-property: color, background-color, border-color, background-image, padding, border-width;
+    transition-duration: 1s;
+
+  	color: #e0e040;
+    font: YaHei Consolas Hybrid 11px;
+}
+
+.background {
+    background: linear-gradient(153deg, #151515, #151515 5px, transparent 5px) 0 0,
+                linear-gradient(333deg, #151515, #151515 5px, transparent 5px) 10px 5px,
+                linear-gradient(153deg, #222, #222 5px, transparent 5px) 0 5px,
+                linear-gradient(333deg, #222, #222 5px, transparent 5px) 10px 10px,
+                linear-gradient(90deg, #1b1b1b, #1b1b1b 10px, transparent 10px),
+                linear-gradient(#1d1d1d, #1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;
+}
+
+GtkComboBox {
+  font: YaHei Consolas Hybrid 8px;
+}
+GtkLabel {
+  font: YaHei Consolas Hybrid 12px;
+}
+
+GtkTreeViewColumn {
+  color: #2e3436;
+  font: YaHei Consolas Hybrid 12px;
+  border: solid 1px alpha(black, 0.75);
+}
+
+GtkTreeView {
+  color: #2e3436;
+  font: YaHei Consolas Hybrid 10px;
+  background-color: alpha(white, 0.30);
+}
+
+
+
+.view {
+  color: #2e3436;
+  font: YaHei Consolas Hybrid 10px;
+  background-color: alpha(white, 0.30);
+}
+
+.view:selected {
+  color: white;
+  background-color: #4a90d9;
+}
+
+.button {
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  transition: all 250ms ease-in;
+  border: 1px transparent solid;
+}
+
+.button:hover {
+  text-shadow: 3px 3px 5px alpha(black, 0.75);
+  icon-shadow: 3px 3px 5px alpha(black, 0.75);
+  box-shadow: 3px 3px 5px alpha(black, 0.5) inset;
+  border: solid 1px alpha(black, 0.75);
+}
+
+.button:active {
+  padding: 11px 9px 9px 11px;
+  text-shadow: 1px 1px 2.5px alpha(black, 0.6);
+  icon-shadow: 1px 1px 2.5px alpha(black, 0.6);
+}
+
+
+.scale.trough,
+.scale-junction {
+  background-color: alpha(black, 0.40);
+}
+
+.scale.slider {
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: transparent;
+  background-clip: padding-box;
+  background-color: #999;
+}
+
+.scale.slider:prelight {
+  background-color: #555;
+}
+
+.pane-separator {
+  background-color: alpha(black, 0.30);
+}
+
+.pane-separator:prelight {
+  background-color: alpha(black, 0.30);
+}
